@@ -1,3 +1,3 @@
 print("hiiiiiiiiii")
 print("how you doin?????")
-pirnt("im doing fineeeeeeeeee(:")
+print("im doing fineeeeeeeeee(:")
